@@ -1,17 +1,17 @@
 # Netflix GPT
 
-- Create React App
+- Created React App
 - Configured TailwindCSS 
 - Header
 - Routing of App
-- Login Form
-- Sign up Form
-- Form Validation
+- Login Form done
+- Sign up Form done
+- Form Validation done
 - useRef Hook
 - Firebase Setup
 - Deploying our app to production
-- Create SignUp User Account
-- Implement Sign In user Api
+- Created SignUp User Account
+- Implemented Sign In user Api
 - Created Redux Store with userSlice
 - Implemented Sign out 
 - Update Profile
@@ -37,7 +37,7 @@
 - usePopularMovies Custom hook
 - GPT Search Page
 - GPT Search Bar
-- (BONUS) Multi-language Feature in our App)
+- Added Multi-language Feature in the App.
 - Get Open AI Api Key 
 - Gpt Search API Call
 - fetched gptMoviesSuggestions from TMDB
